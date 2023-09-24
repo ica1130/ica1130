@@ -1,6 +1,4 @@
-# Ilija Krilovic
-
-Welcome to my GitHub profile !  
+# Welcome to my GitHub profile !  
   
 I am a dedicated Java developer with a strong background in real estate and construction.  
 With a Master's in Civil Engineering and a passion for software development, I am enthusiastic about creating innovative solutions.  
