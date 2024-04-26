@@ -24,7 +24,7 @@ I am also well-versed in various tools and technologies:
 </p>
 
 ### My CV:
-<a href="https://drive.google.com/file/d/1jyRti1J--w9JKb63_TYek6s5Rq8TtlQJ/view?usp=sharing" target="_blank" rel="noreferrer">Ilija Krilovic CV</a>
+<a href="https://drive.google.com/file/d/1FIrT1wlJtGy_2sXuP9GE1NsZDcIEufCv/view?usp=sharing" target="_blank" rel="noreferrer">Ilija Krilovic CV</a>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
