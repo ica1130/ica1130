@@ -1,9 +1,9 @@
 # Welcome to my GitHub profile !  
   
-I am a dedicated Java developer with a strong background in real estate and construction.  
-With a Master's in Civil Engineering and a passion for software development, I am enthusiastic about creating innovative solutions.  
-My main focus in on back-end technologies and I am proficient in using Java and Spring boot for building RESTful APIs.  
-I am also well-versed in various tools and technologies:
+I am a dedicated Full Stack Developer with focus on the back end. I have previously worked as a Civil Engineer in real estate and construction.  
+With a passion for software development, I am enthusiastic about creating innovative, automated and sustainable solutions.  
+My strongest skills lie with Java and Spring boot for building RESTful APIs and I am also well versed with Go and TypeScript. 
+I have a solid foundation in various tools and technologies for containerization and automation:
 
 - containerization: Docker and Kubernetes;
 - could: AWS, Azure;
