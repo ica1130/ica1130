@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile !  
+# Hey!  
   
 I am a dedicated Full Stack Developer with focus on the back end. I have previously worked as a Civil Engineer in real estate and construction.  
 With a passion for software development, I am enthusiastic about creating innovative, automated and sustainable solutions.  
